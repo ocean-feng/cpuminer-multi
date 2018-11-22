@@ -48,7 +48,7 @@
 #define SPH_TYPES_H__
 
 #include <limits.h>
-
+#include <stdlib.h>
 /*
  * All our I/O functions are defined over octet streams. We do not know
  * how to handle input data if bytes are not octets.
